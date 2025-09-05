@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://gitlab.com/fgandolfi/csv2manifest/-/raw/main/EPHE-BMF-4PAR-002.json",
+  "@id": "https://gitlab.com/fgandolfi/csv2manifest/-/raw/main/manifest/EPHE-BMF-4PAR-002.json",
   "@type": "sc:Manifest",
   "label": "Titre non défini",
   "description": "Description non disponible",
