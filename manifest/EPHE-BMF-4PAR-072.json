@@ -1,0 +1,2732 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest",
+  "@type": "sc:Manifest",
+  "label": "La Vie de Saint-Alexis. Carnet de voyage en Russie.",
+  "description": "Collations de manuscrits sur la \"Vie de Saint-Alexis\". Une étrange affaire (roman en 3 parties de N.D. [Ackharoumof]) et entrée d’un journal intime tenu à Saint-Pétersbourg.",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "La Vie de Saint-Alexis. Carnet de voyage en Russie."
+    },
+    {
+      "label": "Auteur(s)",
+      "value": [
+        "<a class=\"uri-value-link\" href=\"https://www.idref.fr/027058352\">Paris, Gaston (1839-1903). Auteur</a>"
+      ]
+    },
+    {
+      "label": "Date de création",
+      "value": [
+        "1860/1872"
+      ]
+    },
+    {
+      "label": "Description intellectuelle",
+      "value": [
+        "Collations de manuscrits sur la \"Vie de Saint-Alexis\". Une étrange affaire (roman en 3 parties de N.D. [Ackharoumof]) et entrée d’un journal intime tenu à Saint-Pétersbourg."
+      ]
+    },
+    {
+      "label": "Description matérielle",
+      "value": [
+        "image/jp2,1 carnet, 16 pages140 x 90 mmun carnet, utilisé dans les deux sens de lecture."
+      ]
+    },
+    {
+      "label": "Identifiant de la reproduction numérique",
+      "value": [
+        "EPHE-BMF-4PAR-072"
+      ]
+    },
+    {
+      "label": "Langue",
+      "value": [
+        "heb,heb,ita,heb,spa"
+      ]
+    },
+    {
+      "label": "Notice bibliographique",
+      "value": [
+        "<a class=\"uri-value-link\" href=\"https://archives.humatheque-condorcet.fr/ark:/40358/787043\">https://archives.humatheque-condorcet.fr/ark:/40358/787043</a>"
+      ]
+    },
+    {
+      "label": "Droits",
+      "value": [
+        "Sous autorisation.,Communication, reproduction (photographie à usage personnel) et réutilisation libres, sous réserve des dispositions prévues par la loi pour le respect de la vie privée, également définies par le Code du Patrimoine (art. L213-2) pour les archives publiques et conformément aux dispositions du Code de la propriété intellectuelle pour leur exploitation (art. L.122-5)."
+      ]
+    },
+    {
+      "label": "Cote du document original",
+      "value": [
+        "Humathèque Condorcet, Archives, Gaston et Paulin Paris, EPHE BMF 4PAR 072"
+      ]
+    },
+    {
+      "label": "Sujet(s) représenté(s)",
+      "value": [
+        "<a class=\"uri-value-link\" href=\"https://www.idref.fr/031785379\">Vie de saint Alexis</a>"
+      ]
+    }
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Humathèque Condorcet",
+  "logo": {
+    "@id": "https://bibnum.campus-condorcet.fr/themes/condorcet/asset/img/logo/favicon.png"
+  },
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/sequence/normal",
+      "canvases": [
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/1",
+          "@type": "sc:Canvas",
+          "label": "Page 1",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/1/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/1",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0001.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0001.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/2",
+          "@type": "sc:Canvas",
+          "label": "Page 2",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/2/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/2",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0002.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0002.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/3",
+          "@type": "sc:Canvas",
+          "label": "Page 3",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/3/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/3",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0003.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0003.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/4",
+          "@type": "sc:Canvas",
+          "label": "Page 4",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/4/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/4",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0004.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0004.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/5",
+          "@type": "sc:Canvas",
+          "label": "Page 5",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/5/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/5",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0005.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0005.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/6",
+          "@type": "sc:Canvas",
+          "label": "Page 6",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/6/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/6",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0006.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0006.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/7",
+          "@type": "sc:Canvas",
+          "label": "Page 7",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/7/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/7",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0007.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0007.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/8",
+          "@type": "sc:Canvas",
+          "label": "Page 8",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/8/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/8",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0008.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0008.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/9",
+          "@type": "sc:Canvas",
+          "label": "Page 9",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/9/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/9",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0009.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0009.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/10",
+          "@type": "sc:Canvas",
+          "label": "Page 10",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/10/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/10",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0010.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0010.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/11",
+          "@type": "sc:Canvas",
+          "label": "Page 11",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/11/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/11",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0011.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0011.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/12",
+          "@type": "sc:Canvas",
+          "label": "Page 12",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/12/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/12",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0012.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0012.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/13",
+          "@type": "sc:Canvas",
+          "label": "Page 13",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/13/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/13",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0013.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0013.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/14",
+          "@type": "sc:Canvas",
+          "label": "Page 14",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/14/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/14",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0014.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0014.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/15",
+          "@type": "sc:Canvas",
+          "label": "Page 15",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/15/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/15",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0015.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0015.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/16",
+          "@type": "sc:Canvas",
+          "label": "Page 16",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/16/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/16",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0016.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0016.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/17",
+          "@type": "sc:Canvas",
+          "label": "Page 17",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/17/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/17",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0017.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0017.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/18",
+          "@type": "sc:Canvas",
+          "label": "Page 18",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/18/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/18",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0018.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0018.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/19",
+          "@type": "sc:Canvas",
+          "label": "Page 19",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/19/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/19",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0019.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0019.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/20",
+          "@type": "sc:Canvas",
+          "label": "Page 20",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/20/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/20",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0020.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0020.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/21",
+          "@type": "sc:Canvas",
+          "label": "Page 21",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/21/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/21",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0021.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0021.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/22",
+          "@type": "sc:Canvas",
+          "label": "Page 22",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/22/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/22",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0022.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0022.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/23",
+          "@type": "sc:Canvas",
+          "label": "Page 23",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/23/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/23",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0023.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0023.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/24",
+          "@type": "sc:Canvas",
+          "label": "Page 24",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/24/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/24",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0024.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0024.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/25",
+          "@type": "sc:Canvas",
+          "label": "Page 25",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/25/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/25",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0025.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0025.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/26",
+          "@type": "sc:Canvas",
+          "label": "Page 26",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/26/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/26",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0026.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0026.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/27",
+          "@type": "sc:Canvas",
+          "label": "Page 27",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/27/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/27",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0027.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0027.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/28",
+          "@type": "sc:Canvas",
+          "label": "Page 28",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/28/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/28",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0028.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0028.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/29",
+          "@type": "sc:Canvas",
+          "label": "Page 29",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/29/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/29",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0029.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0029.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/30",
+          "@type": "sc:Canvas",
+          "label": "Page 30",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/30/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/30",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0030.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0030.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/31",
+          "@type": "sc:Canvas",
+          "label": "Page 31",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/31/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/31",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0031.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0031.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/32",
+          "@type": "sc:Canvas",
+          "label": "Page 32",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/32/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/32",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0032.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0032.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/33",
+          "@type": "sc:Canvas",
+          "label": "Page 33",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/33/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/33",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0033.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0033.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/34",
+          "@type": "sc:Canvas",
+          "label": "Page 34",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/34/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/34",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0034.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0034.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/35",
+          "@type": "sc:Canvas",
+          "label": "Page 35",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/35/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/35",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0035.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0035.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/36",
+          "@type": "sc:Canvas",
+          "label": "Page 36",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/36/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/36",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0036.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0036.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/37",
+          "@type": "sc:Canvas",
+          "label": "Page 37",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/37/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/37",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0037.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0037.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/38",
+          "@type": "sc:Canvas",
+          "label": "Page 38",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/38/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/38",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0038.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0038.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/39",
+          "@type": "sc:Canvas",
+          "label": "Page 39",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/39/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/39",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0039.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0039.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/40",
+          "@type": "sc:Canvas",
+          "label": "Page 40",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/40/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/40",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0040.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0040.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/41",
+          "@type": "sc:Canvas",
+          "label": "Page 41",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/41/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/41",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0041.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0041.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/42",
+          "@type": "sc:Canvas",
+          "label": "Page 42",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/42/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/42",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0042.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0042.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/43",
+          "@type": "sc:Canvas",
+          "label": "Page 43",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/43/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/43",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0043.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0043.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/44",
+          "@type": "sc:Canvas",
+          "label": "Page 44",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/44/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/44",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0044.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0044.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/45",
+          "@type": "sc:Canvas",
+          "label": "Page 45",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/45/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/45",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0045.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0045.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/46",
+          "@type": "sc:Canvas",
+          "label": "Page 46",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/46/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/46",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0046.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0046.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/47",
+          "@type": "sc:Canvas",
+          "label": "Page 47",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/47/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/47",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0047.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0047.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/48",
+          "@type": "sc:Canvas",
+          "label": "Page 48",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/48/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/48",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0048.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0048.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/49",
+          "@type": "sc:Canvas",
+          "label": "Page 49",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/49/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/49",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0049.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0049.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/50",
+          "@type": "sc:Canvas",
+          "label": "Page 50",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/50/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/50",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0050.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0050.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/51",
+          "@type": "sc:Canvas",
+          "label": "Page 51",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/51/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/51",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0051.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0051.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/52",
+          "@type": "sc:Canvas",
+          "label": "Page 52",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/52/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/52",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0052.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0052.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/53",
+          "@type": "sc:Canvas",
+          "label": "Page 53",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/53/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/53",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0053.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0053.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/54",
+          "@type": "sc:Canvas",
+          "label": "Page 54",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/54/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/54",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0054.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0054.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/55",
+          "@type": "sc:Canvas",
+          "label": "Page 55",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/55/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/55",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0055.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0055.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/56",
+          "@type": "sc:Canvas",
+          "label": "Page 56",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/56/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/56",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0056.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0056.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/57",
+          "@type": "sc:Canvas",
+          "label": "Page 57",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/57/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/57",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0057.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0057.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/58",
+          "@type": "sc:Canvas",
+          "label": "Page 58",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/58/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/58",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0058.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0058.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/59",
+          "@type": "sc:Canvas",
+          "label": "Page 59",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/59/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/59",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0059.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0059.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/60",
+          "@type": "sc:Canvas",
+          "label": "Page 60",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/60/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/60",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0060.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0060.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/61",
+          "@type": "sc:Canvas",
+          "label": "Page 61",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/61/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/61",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0061.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0061.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/62",
+          "@type": "sc:Canvas",
+          "label": "Page 62",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/62/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/62",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0062.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0062.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/63",
+          "@type": "sc:Canvas",
+          "label": "Page 63",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/63/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/63",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0063.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0063.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/64",
+          "@type": "sc:Canvas",
+          "label": "Page 64",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/64/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/64",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0064.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0064.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/65",
+          "@type": "sc:Canvas",
+          "label": "Page 65",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/65/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/65",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0065.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0065.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/66",
+          "@type": "sc:Canvas",
+          "label": "Page 66",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/66/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/66",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0066.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0066.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/67",
+          "@type": "sc:Canvas",
+          "label": "Page 67",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/67/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/67",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0067.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0067.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/68",
+          "@type": "sc:Canvas",
+          "label": "Page 68",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/68/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/68",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0068.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0068.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/69",
+          "@type": "sc:Canvas",
+          "label": "Page 69",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/69/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/69",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0069.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0069.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/70",
+          "@type": "sc:Canvas",
+          "label": "Page 70",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/70/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/70",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0070.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0070.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/71",
+          "@type": "sc:Canvas",
+          "label": "Page 71",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/71/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/71",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0071.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0071.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/72",
+          "@type": "sc:Canvas",
+          "label": "Page 72",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/72/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/72",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0072.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0072.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/73",
+          "@type": "sc:Canvas",
+          "label": "Page 73",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/73/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/73",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0073.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0073.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/74",
+          "@type": "sc:Canvas",
+          "label": "Page 74",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/74/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/74",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0074.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0074.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/75",
+          "@type": "sc:Canvas",
+          "label": "Page 75",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/75/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/75",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0075.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0075.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/76",
+          "@type": "sc:Canvas",
+          "label": "Page 76",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/76/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/76",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0076.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0076.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/77",
+          "@type": "sc:Canvas",
+          "label": "Page 77",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/77/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/77",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0077.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0077.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/78",
+          "@type": "sc:Canvas",
+          "label": "Page 78",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/78/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/78",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0078.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0078.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/79",
+          "@type": "sc:Canvas",
+          "label": "Page 79",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/79/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/79",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0079.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0079.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/80",
+          "@type": "sc:Canvas",
+          "label": "Page 80",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/80/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/80",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0080.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0080.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/81",
+          "@type": "sc:Canvas",
+          "label": "Page 81",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/81/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/81",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0081.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0081.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/82",
+          "@type": "sc:Canvas",
+          "label": "Page 82",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/82/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/82",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0082.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0082.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/83",
+          "@type": "sc:Canvas",
+          "label": "Page 83",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/83/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/83",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0083.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0083.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/84",
+          "@type": "sc:Canvas",
+          "label": "Page 84",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/84/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/84",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0084.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0084.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/85",
+          "@type": "sc:Canvas",
+          "label": "Page 85",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/85/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/85",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0085.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0085.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/86",
+          "@type": "sc:Canvas",
+          "label": "Page 86",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/86/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/86",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0086.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0086.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/87",
+          "@type": "sc:Canvas",
+          "label": "Page 87",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/87/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/87",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0087.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0087.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/88",
+          "@type": "sc:Canvas",
+          "label": "Page 88",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/88/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/88",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0088.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0088.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/89",
+          "@type": "sc:Canvas",
+          "label": "Page 89",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/89/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/89",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0089.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0089.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/90",
+          "@type": "sc:Canvas",
+          "label": "Page 90",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/90/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/90",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0090.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0090.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/91",
+          "@type": "sc:Canvas",
+          "label": "Page 91",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/91/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/91",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0091.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0091.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/92",
+          "@type": "sc:Canvas",
+          "label": "Page 92",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/92/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/92",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0092.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0092.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/93",
+          "@type": "sc:Canvas",
+          "label": "Page 93",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/93/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/93",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0093.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0093.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/94",
+          "@type": "sc:Canvas",
+          "label": "Page 94",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/94/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/94",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0094.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0094.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/95",
+          "@type": "sc:Canvas",
+          "label": "Page 95",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/95/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/95",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0095.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0095.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/96",
+          "@type": "sc:Canvas",
+          "label": "Page 96",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/96/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/96",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0096.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0096.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/97",
+          "@type": "sc:Canvas",
+          "label": "Page 97",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/97/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/97",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0097.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0097.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/98",
+          "@type": "sc:Canvas",
+          "label": "Page 98",
+          "height": 2000,
+          "width": 1500,
+          "images": [
+            {
+              "@id": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/98/annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "http://localhost:3000/EPHE-BMF-4PAR-072/manifest/canvas/98",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0098.jp2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 1500,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_EPHE-BMF-4PAR%2FHC_EPHE-BMF-4PAR-072%2FHC_EPHE-BMF-4PAR-072_0098.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
