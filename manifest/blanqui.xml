@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>HC_CHS-8JM_A1-1_0001.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Layout>
+    <Page ID="P1" WIDTH="2314" HEIGHT="3523">
+      <PrintSpace ID="PS1" HPOS="0" VPOS="0" WIDTH="2314" HEIGHT="3523">
+        <TextBlock ID="TB1" HPOS="0" VPOS="0" WIDTH="2314" HEIGHT="391">
+          <TextLine ID="TL1_1" HPOS="0" VPOS="0" WIDTH="2314" HEIGHT="391">
+            <String ID="S1_1_1" CONTENT="Mon" HPOS="0" VPOS="0" WIDTH="771" HEIGHT="391"/>
+            <String ID="S1_1_2" CONTENT="cher" HPOS="771" VPOS="0" WIDTH="771" HEIGHT="391"/>
+            <String ID="S1_1_3" CONTENT="Garnier," HPOS="1542" VPOS="0" WIDTH="771" HEIGHT="391"/>
+          </TextLine>
+          <TextLine ID="TL1_2" HPOS="0" VPOS="391" WIDTH="2314" HEIGHT="391">
+            <String ID="S1_2_1" CONTENT="Les" HPOS="0" VPOS="391" WIDTH="231" HEIGHT="391"/>
+            <String ID="S1_2_2" CONTENT="journaux" HPOS="231" VPOS="391" WIDTH="231" HEIGHT="391"/>
+            <String ID="S1_2_3" CONTENT="annoncent" HPOS="462" VPOS="391" WIDTH="231" HEIGHT="391"/>
+            <String ID="S1_2_4" CONTENT="le" HPOS="693" VPOS="391" WIDTH="231" HEIGHT="391"/>
+            <String ID="S1_2_5" CONTENT="prochain" HPOS="924" VPOS="391" WIDTH="231" HEIGHT="391"/>
+            <String ID="S1_2_6" CONTENT="transfèrement" HPOS="1155" VPOS="391" WIDTH="231" HEIGHT="391"/>
+            <String ID="S1_2_7" CONTENT="en" HPOS="1386" VPOS="391" WIDTH="231" HEIGHT="391"/>
+            <String ID="S1_2_8" CONTENT="Corse" HPOS="1617" VPOS="391" WIDTH="231" HEIGHT="391"/>
+            <String ID="S1_2_9" CONTENT="des" HPOS="1848" VPOS="391" WIDTH="231" HEIGHT="391"/>
+            <String ID="S1_2_10" CONTENT="prisonniers" HPOS="2079" VPOS="391" WIDTH="231" HEIGHT="391"/>
+          </TextLine>
+          <TextLine ID="TL1_3" HPOS="0" VPOS="782" WIDTH="2314" HEIGHT="391">
+            <String ID="S1_3_1" CONTENT="de" HPOS="0" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_2" CONTENT="Belle-Île." HPOS="36" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_3" CONTENT="Cette" HPOS="72" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_4" CONTENT="nouvelle," HPOS="108" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_5" CONTENT="fort" HPOS="144" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_6" CONTENT="grave" HPOS="180" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_7" CONTENT="pour" HPOS="216" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_8" CONTENT="les" HPOS="252" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_9" CONTENT="interessés," HPOS="288" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_10" CONTENT="mérite" HPOS="324" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_11" CONTENT="éclaircissement." HPOS="360" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_12" CONTENT="vous" HPOS="396" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_13" CONTENT="serait-il" HPOS="432" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_14" CONTENT="possible" HPOS="468" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_15" CONTENT="d'en" HPOS="504" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_16" CONTENT="vérifier" HPOS="540" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_17" CONTENT="l'exactitude&amp;#160;?" HPOS="576" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_18" CONTENT="Votre" HPOS="612" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_19" CONTENT="qualité" HPOS="648" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_20" CONTENT="de" HPOS="684" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_21" CONTENT="professeur" HPOS="720" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_22" CONTENT="à" HPOS="756" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_23" CONTENT="l'école" HPOS="792" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_24" CONTENT="des" HPOS="828" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_25" CONTENT="mines" HPOS="864" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_26" CONTENT="vous" HPOS="900" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_27" CONTENT="facilite" HPOS="936" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_28" CONTENT="des" HPOS="972" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_29" CONTENT="informations" HPOS="1008" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_30" CONTENT="auprès" HPOS="1044" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_31" CONTENT="du" HPOS="1080" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_32" CONTENT="monde" HPOS="1116" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_33" CONTENT="officiel." HPOS="1152" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_34" CONTENT="On" HPOS="1188" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_35" CONTENT="parle" HPOS="1224" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_36" CONTENT="aussi" HPOS="1260" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_37" CONTENT="de" HPOS="1296" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_38" CONTENT="la" HPOS="1332" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_39" CONTENT="citadelle" HPOS="1368" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_40" CONTENT="de" HPOS="1404" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_41" CONTENT="Blaye" HPOS="1440" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_42" CONTENT="comme" HPOS="1476" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_43" CONTENT="destinée" HPOS="1512" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_44" CONTENT="à" HPOS="1548" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_45" CONTENT="des" HPOS="1584" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_46" CONTENT="condamnés" HPOS="1620" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_47" CONTENT="politiques." HPOS="1656" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_48" CONTENT="Ces" HPOS="1692" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_49" CONTENT="deux" HPOS="1728" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_50" CONTENT="bruits," HPOS="1764" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_51" CONTENT="bien" HPOS="1800" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_52" CONTENT="que" HPOS="1836" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_53" CONTENT="différents," HPOS="1872" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_54" CONTENT="ne" HPOS="1908" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_55" CONTENT="sont" HPOS="1944" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_56" CONTENT="pas" HPOS="1980" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_57" CONTENT="contradictoires," HPOS="2016" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_58" CONTENT="et" HPOS="2052" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_59" CONTENT="peuvent" HPOS="2088" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_60" CONTENT="se" HPOS="2124" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_61" CONTENT="trouver" HPOS="2160" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_62" CONTENT="également" HPOS="2196" VPOS="782" WIDTH="36" HEIGHT="391"/>
+            <String ID="S1_3_63" CONTENT="vrais." HPOS="2232" VPOS="782" WIDTH="36" HEIGHT="391"/>
+          </TextLine>
+          <TextLine ID="TL1_4" HPOS="0" VPOS="1173" WIDTH="2314" HEIGHT="391">
+            <String ID="S1_4_1" CONTENT="Notre" HPOS="0" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_2" CONTENT="transfèrement" HPOS="72" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_3" CONTENT="en" HPOS="144" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_4" CONTENT="Corse" HPOS="216" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_5" CONTENT="est-il" HPOS="288" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_6" CONTENT="arrêté&amp;#160;?" HPOS="360" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_7" CONTENT="et" HPOS="432" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_8" CONTENT="alors," HPOS="504" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_9" CONTENT="dans" HPOS="576" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_10" CONTENT="quelle" HPOS="648" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_11" CONTENT="localité" HPOS="720" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_12" CONTENT="de" HPOS="792" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_13" CONTENT="l'île&amp;#160;?" HPOS="864" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_14" CONTENT="à" HPOS="936" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_15" CONTENT="quelle" HPOS="1008" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_16" CONTENT="époque&amp;#160;?" HPOS="1080" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_17" CONTENT="Dans" HPOS="1152" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_18" CONTENT="quelle" HPOS="1224" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_19" CONTENT="espèce" HPOS="1296" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_20" CONTENT="de" HPOS="1368" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_21" CONTENT="prison&amp;#160;?" HPOS="1440" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_22" CONTENT="Car" HPOS="1512" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_23" CONTENT="il" HPOS="1584" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_24" CONTENT="y" HPOS="1656" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_25" CONTENT="a" HPOS="1728" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_26" CONTENT="prison" HPOS="1800" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_27" CONTENT="et" HPOS="1872" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_28" CONTENT="prison." HPOS="1944" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_29" CONTENT="à" HPOS="2016" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_30" CONTENT="qui" HPOS="2088" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_31" CONTENT="réserverait-on" HPOS="2160" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+            <String ID="S1_4_32" CONTENT="Blaye&amp;#160;?" HPOS="2232" VPOS="1173" WIDTH="72" HEIGHT="391"/>
+          </TextLine>
+          <TextLine ID="TL1_5" HPOS="0" VPOS="1564" WIDTH="2314" HEIGHT="391">
+            <String ID="S1_5_1" CONTENT="tels" HPOS="0" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_2" CONTENT="sont" HPOS="121" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_3" CONTENT="les" HPOS="242" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_4" CONTENT="points" HPOS="363" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_5" CONTENT="à" HPOS="484" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_6" CONTENT="éclaircir." HPOS="605" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_7" CONTENT="Des" HPOS="726" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_8" CONTENT="renseignements" HPOS="847" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_9" CONTENT="exacts" HPOS="968" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_10" CONTENT="à" HPOS="1089" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_11" CONTENT="ce" HPOS="1210" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_12" CONTENT="sujet" HPOS="1331" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_13" CONTENT="m'obligeraient" HPOS="1452" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_14" CONTENT="fort." HPOS="1573" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_15" CONTENT="Croyez-vous" HPOS="1694" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_16" CONTENT="pouvoir" HPOS="1815" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_17" CONTENT="me" HPOS="1936" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_18" CONTENT="les" HPOS="2057" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+            <String ID="S1_5_19" CONTENT="procurer&amp;#160;?" HPOS="2178" VPOS="1564" WIDTH="121" HEIGHT="391"/>
+          </TextLine>
+          <TextLine ID="TL1_6" HPOS="0" VPOS="1955" WIDTH="2314" HEIGHT="391">
+            <String ID="S1_6_1" CONTENT="Je" HPOS="0" VPOS="1955" WIDTH="385" HEIGHT="391"/>
+            <String ID="S1_6_2" CONTENT="n'affranchis" HPOS="385" VPOS="1955" WIDTH="385" HEIGHT="391"/>
+            <String ID="S1_6_3" CONTENT="pas." HPOS="770" VPOS="1955" WIDTH="385" HEIGHT="391"/>
+            <String ID="S1_6_4" CONTENT="Faites" HPOS="1155" VPOS="1955" WIDTH="385" HEIGHT="391"/>
+            <String ID="S1_6_5" CONTENT="de" HPOS="1540" VPOS="1955" WIDTH="385" HEIGHT="391"/>
+            <String ID="S1_6_6" CONTENT="même." HPOS="1925" VPOS="1955" WIDTH="385" HEIGHT="391"/>
+          </TextLine>
+          <TextLine ID="TL1_7" HPOS="0" VPOS="2346" WIDTH="2314" HEIGHT="391">
+            <String ID="S1_7_1" CONTENT="tout" HPOS="0" VPOS="2346" WIDTH="771" HEIGHT="391"/>
+            <String ID="S1_7_2" CONTENT="à" HPOS="771" VPOS="2346" WIDTH="771" HEIGHT="391"/>
+            <String ID="S1_7_3" CONTENT="vous" HPOS="1542" VPOS="2346" WIDTH="771" HEIGHT="391"/>
+          </TextLine>
+          <TextLine ID="TL1_8" HPOS="0" VPOS="2737" WIDTH="2314" HEIGHT="391">
+            <String ID="S1_8_1" CONTENT="A" HPOS="0" VPOS="2737" WIDTH="1157" HEIGHT="391"/>
+            <String ID="S1_8_2" CONTENT="Blanqui" HPOS="1157" VPOS="2737" WIDTH="1157" HEIGHT="391"/>
+          </TextLine>
+          <TextLine ID="TL1_9" HPOS="0" VPOS="3128" WIDTH="2314" HEIGHT="391">
+            <String ID="S1_9_1" CONTENT="Citadelle" HPOS="0" VPOS="3128" WIDTH="289" HEIGHT="391"/>
+            <String ID="S1_9_2" CONTENT="de" HPOS="289" VPOS="3128" WIDTH="289" HEIGHT="391"/>
+            <String ID="S1_9_3" CONTENT="Belle-Île" HPOS="578" VPOS="3128" WIDTH="289" HEIGHT="391"/>
+            <String ID="S1_9_4" CONTENT="en" HPOS="867" VPOS="3128" WIDTH="289" HEIGHT="391"/>
+            <String ID="S1_9_5" CONTENT="Mer," HPOS="1156" VPOS="3128" WIDTH="289" HEIGHT="391"/>
+            <String ID="S1_9_6" CONTENT="28" HPOS="1445" VPOS="3128" WIDTH="289" HEIGHT="391"/>
+            <String ID="S1_9_7" CONTENT="avril" HPOS="1734" VPOS="3128" WIDTH="289" HEIGHT="391"/>
+            <String ID="S1_9_8" CONTENT="1856" HPOS="2023" VPOS="3128" WIDTH="289" HEIGHT="391"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
