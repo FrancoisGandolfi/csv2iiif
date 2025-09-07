@@ -10,7 +10,7 @@
     },
     {
       "label": "Auteur(s)",
-      "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https://www.idref.fr/027376958\">Blanqui, Auguste (1805-1881)</a>"
+      "value": "<a class="uri-value-link" target="_blank" href="https&#x3A;&#x2F;&#x2F;www.idref.fr&#x2F;027376958">Blanqui, Auguste (1805-1881)</a>"
     },
     {
       "label": "Date de rédaction",
@@ -18,13 +18,13 @@
     },
     {
       "label": "Language",
-      "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https://id.loc.gov/vocabulary/iso639-2/fre\">Français</a>"
+      "value": "<a class="uri-value-link" target="_blank" href="https&#x3A;&#x2F;&#x2F;id.loc.gov&#x2F;vocabulary&#x2F;iso639-2&#x2F;fre">Français</a>"
     },
     {
       "label": "Thème(s)",
       "value": [
-        "<a class=\"uri-value-link\" target=\"_blank\" href=\"https://www.idref.fr/027240037\">Mouvement ouvrier</a>",
-        "<a class=\"uri-value-link\" target=\"_blank\" href=\"https://www.idref.fr/050549820\">Histoire sociale</a>"
+        "<a class="uri-value-link" target="_blank" href="https&#x3A;&#x2F;&#x2F;www.idref.fr&#x2F;027240037">Mouvement ouvrier</a>",
+        "<a class="uri-value-link" target="_blank" href="https&#x3A;&#x2F;&#x2F;www.idref.fr&#x2F;050549820">Histoire sociale</a>"
       ]
     },
     {
@@ -47,13 +47,13 @@
     },
     {
       "label": "Provenance",
-      "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https://histoire-sociale.cnrs.fr/\">Centre d’histoire sociale des mondes contemporains (CHS)</a>"
+      "value": "<a class="uri-value-link" target="_blank" href="https&#x3A;&#x2F;&#x2F;histoire-sociale.cnrs.fr&#x2F;">Centre d’histoire sociale des mondes contemporains (CHS)</a>"
     },
     {
       "label": "Notice bibliographique",
       "value": [
-        "<a class=\"uri-value-link\" target=\"_blank\" href=\"https://archives.humatheque-condorcet.fr/ark:/40358/30960.30961\">Notice du catalogue (Ligéo)</a>",
-        "<a class=\"uri-value-link\" target=\"_blank\" href=\"https://calames.abes.fr/pub/ms/Calames-201711314118546120\">Notice du catalogue (Calames)</a>"
+        "<a class="uri-value-link" target="_blank" href="https&#x3A;&#x2F;&#x2F;archives.humatheque-condorcet.fr&#x2F;ark&#x3A;&#x2F;40358&#x2F;30960.30961">Notice du catalogue (Ligéo)</a>",
+        "<a class="uri-value-link" target="_blank" href="https&#x3A;&#x2F;&#x2F;calames.abes.fr&#x2F;pub&#x2F;ms&#x2F;Calames-201711314118546120">Notice du catalogue (Calames)</a>"
       ]
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "label": "Version(s) associée(s)",
-      "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https://transcrire.huma-num.fr/scripto/14/item\">Transcription issue de la plateforme collaborative Transcrire</a>"
+      "value": "<a class="uri-value-link" target="_blank" href="https&#x3A;&#x2F;&#x2F;transcrire.huma-num.fr&#x2F;scripto&#x2F;14&#x2F;item">Transcription issue de la plateforme collaborative Transcrire</a>"
     },
     {
       "label": "Droits",
@@ -133,7 +133,196 @@
           "label": "Télécharger en XML Alto"
         }
       ],
-      "canvases": [ ... ]
+      "canvases": [
+        {
+          "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/canvas/p1",
+          "@type": "sc:Canvas",
+          "label": "1",
+          "thumbnail": {
+            "@id": "https://bibnum.campus-condorcet.fr/files/medium/bdf8bceafe1c394497c6ec599cae99f79b091b2b.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "width": 131,
+            "height": 200
+          },
+          "width": 2314,
+          "height": 3523,
+          "seeAlso": {
+            "@id": "https://bibnum.campus-condorcet.fr/files/original/196545/HC_CHS-8JM_A1-1_0001.xml",
+            "profile": "http://www.loc.gov/standards/alto/v4/alto.xsd",
+            "format": "application/alto+xml",
+            "label": "ALTO XML"
+          },
+          "otherContent": [
+            {
+              "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/annotation-page/225767/line",
+              "@type": "sc:AnnotationList",
+              "label": "Texte de la page en cours"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/annotation/p0001-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CHS-8JM%2FJP2%2FHC_CHS-8JM_A%2FHC_CHS-8JM_A1-1%2FHC_CHS-8JM_A1-1_0001.JP2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2314,
+                "height": 3523,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CHS-8JM%2FJP2%2FHC_CHS-8JM_A%2FHC_CHS-8JM_A1-1%2FHC_CHS-8JM_A1-1_0001.JP2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://bibnum.campus-condorcet.fr/iiif/2/196545/canvas/p1"
+            }
+          ]
+        },
+        {
+          "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/canvas/p2",
+          "@type": "sc:Canvas",
+          "label": "2",
+          "thumbnail": {
+            "@id": "https://bibnum.campus-condorcet.fr/files/medium/9c2479a2b1ea5e3785edad6798029e7f472e6ac2.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "width": 200,
+            "height": 132
+          },
+          "width": 3525,
+          "height": 2330,
+          "seeAlso": {
+            "@id": "https://bibnum.campus-condorcet.fr/files/original/196545/HC_CHS-8JM_A1-1_0002.xml",
+            "profile": "http://www.loc.gov/standards/alto/v4/alto.xsd",
+            "format": "application/alto+xml",
+            "label": "ALTO XML"
+          },
+          "otherContent": [
+            {
+              "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/annotation-page/225768/line",
+              "@type": "sc:AnnotationList",
+              "label": "Texte de la page en cours"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/annotation/p0002-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CHS-8JM%2FJP2%2FHC_CHS-8JM_A%2FHC_CHS-8JM_A1-1%2FHC_CHS-8JM_A1-1_0002.JP2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3525,
+                "height": 2330,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CHS-8JM%2FJP2%2FHC_CHS-8JM_A%2FHC_CHS-8JM_A1-1%2FHC_CHS-8JM_A1-1_0002.JP2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://bibnum.campus-condorcet.fr/iiif/2/196545/canvas/p2"
+            }
+          ]
+        },
+        {
+          "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/canvas/p3",
+          "@type": "sc:Canvas",
+          "label": "3",
+          "thumbnail": {
+            "@id": "https://bibnum.campus-condorcet.fr/files/medium/a9825648e00b56154fae8c6acc4859d8d20b6ca5.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "width": 130,
+            "height": 200
+          },
+          "width": 2284,
+          "height": 3511,
+          "seeAlso": {
+            "@id": "https://bibnum.campus-condorcet.fr/files/original/196545/HC_CHS-8JM_A1-1_0003.xml",
+            "profile": "http://www.loc.gov/standards/alto/v4/alto.xsd",
+            "format": "application/alto+xml",
+            "label": "ALTO XML"
+          },
+          "otherContent": [
+            {
+              "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/annotation-page/225769/line",
+              "@type": "sc:AnnotationList",
+              "label": "Texte de la page en cours"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/annotation/p0003-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CHS-8JM%2FJP2%2FHC_CHS-8JM_A%2FHC_CHS-8JM_A1-1%2FHC_CHS-8JM_A1-1_0003.JP2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2284,
+                "height": 3511,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CHS-8JM%2FJP2%2FHC_CHS-8JM_A%2FHC_CHS-8JM_A1-1%2FHC_CHS-8JM_A1-1_0003.JP2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://bibnum.campus-condorcet.fr/iiif/2/196545/canvas/p3"
+            }
+          ]
+        },
+        {
+          "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/canvas/p4",
+          "@type": "sc:Canvas",
+          "label": "4",
+          "thumbnail": {
+            "@id": "https://bibnum.campus-condorcet.fr/files/medium/ed6615fee8bda940d77293cb63456ce1599547ef.jpg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "width": 128,
+            "height": 200
+          },
+          "width": 2265,
+          "height": 3539,
+          "seeAlso": {
+            "@id": "https://bibnum.campus-condorcet.fr/files/original/196545/HC_CHS-8JM_A1-1_0004.xml",
+            "profile": "http://www.loc.gov/standards/alto/v4/alto.xsd",
+            "format": "application/alto+xml",
+            "label": "ALTO XML"
+          },
+          "otherContent": [
+            {
+              "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/annotation-page/225770/line",
+              "@type": "sc:AnnotationList",
+              "label": "Texte de la page en cours"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/annotation/p0004-image",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CHS-8JM%2FJP2%2FHC_CHS-8JM_A%2FHC_CHS-8JM_A1-1%2FHC_CHS-8JM_A1-1_0004.JP2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2265,
+                "height": 3539,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CHS-8JM%2FJP2%2FHC_CHS-8JM_A%2FHC_CHS-8JM_A1-1%2FHC_CHS-8JM_A1-1_0004.JP2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://bibnum.campus-condorcet.fr/iiif/2/196545/canvas/p4"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
