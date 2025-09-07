@@ -148,7 +148,7 @@
           "width": 2314,
           "height": 3523,
           "seeAlso": {
-            "@id": "https://bibnum.campus-condorcet.fr/files/original/196545/HC_CHS-8JM_A1-1_0001.xml",
+            "@id": "https://csv2manifest-47d0b2.gitlab.io/manifest/blanqui.xml",
             "profile": "http://www.loc.gov/standards/alto/v4/alto.xsd",
             "format": "application/alto+xml",
             "label": "ALTO XML"
