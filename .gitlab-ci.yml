@@ -2,7 +2,7 @@ pages:
   stage: deploy
   script:
     - mkdir public
-    - cp -r manifest public/
+    - cp -r manifest auth public/
   artifacts:
     paths:
       - public
