@@ -99,12 +99,29 @@
       "@id": "https://bibnum.campus-condorcet.fr/iiif-search/196545",
       "profile": "http://iiif.io/api/search/0/search",
       "label": "Search within this manifest"
-    }
+    },
+  {
+    "@context": "http://iiif.io/api/auth/1/context.json",
+    "@id": "https://csv2manifest-47d0b2.gitlab.io/auth/clickthrough",
+    "profile": "http://iiif.io/api/auth/1/clickthrough",
+    "label": "Conditions d’utilisation",
+    "description": "Accès réservé à la consultation interne. En cliquant sur « J’accepte », vous reconnaissez avoir lu et accepté les conditions d’utilisation.",
+    "confirmLabel": "J’accepte",
+    "service": [
+      {
+        "@id": "https://csv2manifest-47d0b2.gitlab.io/auth/token",
+        "profile": "http://iiif.io/api/auth/1/token"
+      }
+    ]
+  }
   ],
+
+
   "seeAlso": {
     "@id": "https://bibnum.campus-condorcet.fr/api/items/196545",
     "format": "application/ld+json"
   },
+  
   "sequences": [
     {
       "@id": "https://bibnum.campus-condorcet.fr/iiif/2/196545/sequence/normal",
