@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Conditions d’utilisation</title>
+</head>
+<body>
+  <h1>Conditions d’accès</h1>
+  <p>Ces images sont accessibles uniquement à des fins de consultation interne.
+     En cliquant sur <strong>« J’accepte »</strong>, vous confirmez avoir pris connaissance des conditions d’utilisation.</p>
+  <button onclick="window.location.href='?status=ok'">J’accepte</button>
+</body>
+</html>
