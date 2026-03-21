@@ -163,14 +163,14 @@
       "@type": "oa:Annotation",
       "motivation": "sc:painting",
       "resource": {
-        "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CHS-8JM_A1-1_0001.JP2/full/full/0/default.jpg",
+        "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CHS-8JM%2FJP2%2FHC_CHS-8JM_A%2FHC_CHS-8JM_A1-1%2FHC_CHS-8JM_A1-1_0001.JP2/full/full/0/default.jpg",
         "@type": "dctypes:Image",
         "format": "image/jpeg",
         "width": 2314,
         "height": 3523,
         "service": {
           "@context": "http://iiif.io/api/image/2/context.json",
-          "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CHS-8JM_A1-1_0001.JP2",
+          "@id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CHS-8JM%2FJP2%2FHC_CHS-8JM_A%2FHC_CHS-8JM_A1-1%2FHC_CHS-8JM_A1-1_0001.JP2",
           "profile": "http://iiif.io/api/image/2/level2.json"
         }
       },
