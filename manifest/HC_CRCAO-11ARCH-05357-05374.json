@@ -1,5 +1,5 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json",
   "id": "https://francoisgandolfi.github.io/csv2iiif/manifest/HC_CRCAO-11ARCH-05357-05374.json",
   "type": "Manifest",
   "label": {
@@ -88,7 +88,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05357.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05357.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -185,7 +185,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05358.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05358.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -282,7 +282,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05359.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05359.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -379,7 +379,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05360.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05360.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -476,7 +476,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05361.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05361.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -573,7 +573,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05362.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05362.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -670,7 +670,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05363.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05363.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -767,7 +767,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05364.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05364.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -864,7 +864,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05365.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05365.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -961,7 +961,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05366.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05366.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -1058,7 +1058,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05367.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05367.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -1155,7 +1155,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05368.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05368.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -1252,7 +1252,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05369.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05369.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -1349,7 +1349,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05370.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05370.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -1446,7 +1446,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05371.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05371.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -1543,7 +1543,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05372.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05372.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -1640,7 +1640,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05373.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05373.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
@@ -1737,7 +1737,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05374.jp2/full/max/0/default.jpg",
+                "id": "https://bibnum-images.campus-condorcet.fr/iiif/2/HC_CRCAO-11ARCH%2FHC_CRCAO-11ARCH-05374.jp2/full/full/0/default.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "service": [
