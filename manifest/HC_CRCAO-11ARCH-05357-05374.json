@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://humatheque-condorcet.fr/bhoutan-iiif/docs/manifests/HC_CRCAO-11ARCH-05357-05374.json",
+  "id": "https://csv2manifest-47d0b2.gitlab.io/manifest/HC_CRCAO-11ARCH-05357-05374.json",
   "type": "Manifest",
   "label": {
     "fr": [
@@ -9,7 +9,7 @@
   },
   "items": [
     {
-      "id": "https://humatheque-condorcet.fr/bhoutan-iiif/docs/manifests/HC_CRCAO-11ARCH-05357-05374/canvas/HC_CRCAO-11ARCH-05357",
+      "id": "https://csv2manifest-47d0b2.gitlab.io/manifest/HC_CRCAO-11ARCH-05357-05374.json",
       "type": "Canvas",
       "label": {
         "fr": [
